@@ -44,12 +44,3 @@ git clone https://github.com/revanth-15/Data-VizProject.git
 cd Data-VizProject
 pip install -r requirements.txt 
 streamlit run streamlit_app.py
-
----
-
-### 💡 **Instructions**:
-1. Copy the entire content above.
-2. Create or edit your **`README.md`** file in your GitHub repository.
-3. Paste the content and **commit**.
-
-Let me know if you want me to tweak anything else! 🚀
