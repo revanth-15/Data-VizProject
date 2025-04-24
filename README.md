@@ -1,6 +1,6 @@
 # EEG Psychiatric Disorders Dashboard
 
-[![Streamlit App](https://img.shields.io/badge/Live%20App-Click%20Here-brightgreen)](https://data-vizproject-ljmsruptzuv5l9najguchm.streamlit.app/)
+[![Streamlit App](https://img.shields.io/badge/Live%20App-Click%20Here-brightgreen)](https://data-vizproject-kt3my8elxg9wb4mtorsdlk.streamlit.app/)
 
 ## 📊 Project Overview
 This project visualizes and predicts major psychiatric disorders based on EEG (Electroencephalography) signals. It includes interactive dashboards and a deep learning-based prediction module using EEG band powers and coherence features.
@@ -23,7 +23,7 @@ This project visualizes and predicts major psychiatric disorders based on EEG (E
 ---
 
 ## 🎯 How to Use
-1. Visit the **[Live App](https://data-vizproject-ljmsruptzuv5l9najguchm.streamlit.app/)**.
+1. Visit the **[Live App](https://data-vizproject-kt3my8elxg9wb4mtorsdlk.streamlit.app/)**.
 2. Explore visual dashboards for various psychiatric disorders.
 3. Use the **Predict Disorder** tab to:
    - Upload EEG features.
